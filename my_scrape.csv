@@ -1,0 +1,10 @@
+title,summary,weblink
+Machine Learning,"Employ both supervised and unsupervised machine learning, to make predictions or to understand data.",https://pythonprogramming.net/machine-learning-tutorials/
+Data Analysis,"Learn how to use Python with Pandas, Matplotlib, and other modules to gather insights from and about your data.",https://pythonprogramming.net/data-analysis-tutorials/
+Quantum Computer Programming,Learn the basics and concepts of working with quantum computers and qubits through practical applications and the Qiskit package.,https://pythonprogramming.net/quantum-computer-programming-tutorial/
+Game Development,"Create your own games with Python's PyGame library, or check out the multi-platform Kivy.",https://pythonprogramming.net/game-development-tutorials/
+Python Fundamentals,Learn the basic and intermediate Python fundamentals.,https://pythonprogramming.net/python-fundamental-tutorials/
+Web Development,How to develop websites with either the Flask or Django frameworks for Python.,https://pythonprogramming.net/web-development-tutorials/
+Bots & AI,"Creating various software bots, like bots in games, in chats, and to interact with the web. Not to be confused with robotics!",https://pythonprogramming.net/bot-tutorials/
+Robotics,Control hardware with Python programming and the Raspberry Pi.,https://pythonprogramming.net/robotics-tutorials/
+GUIs,"Create software with a user interface using Tkinter, PyQt, or Kivy.",https://pythonprogramming.net/gui-development-tutorials/
